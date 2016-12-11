@@ -1,0 +1,16 @@
+﻿<div ng-controller="tweet.dashboard">
+
+    <h4>Social Media experts</h4>
+    <p>Latest changes made to our social media expert profiles, ensure content is update atleast once a week</p>
+    <div class="media" ng-repeat="employee in employees">
+        <a class="pull-left" ng-href="#/content/content/edit/{{employee.id}}">
+            <img class="media-object img-circle" src="https://twitter.com/{{employee.avatar}}/profile_image?size=normal">
+        </a>
+
+        <div class="media-body" ng-class="{'text-error': employee.outdated}">
+            <h4 class="media-heading">{{employee.name}}</h4>
+            last update: {{employee.diff}}
+        </div>
+    </div>
+
+</div>

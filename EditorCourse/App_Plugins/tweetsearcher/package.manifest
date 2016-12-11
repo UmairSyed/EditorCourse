@@ -1,0 +1,25 @@
+{
+    propertyEditors:[
+        {
+          name: "Twitter Searcher",
+          alias: "my.TwitterSearcher",
+          editor:{
+              view: "/app_plugins/tweetsearcher/editor.html",
+			  valueType: "JSON"
+          },
+			prevalues:{
+				fields:[
+					{
+						label: "Max number of Tweets",
+						description: "Max number of tweets",
+						key: "maxTweets",
+						view: "number"
+					}
+				]
+			}
+        }
+    ],
+	javascript: [
+		"/app_plugins/tweetsearcher/editor.controller.js"
+	]
+}

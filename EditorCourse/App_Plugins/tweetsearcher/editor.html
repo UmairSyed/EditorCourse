@@ -1,0 +1,17 @@
+﻿<div ng-controller="tweet.editorcontroller">
+    <input type="text" class="span9" ng-model="model.term" ng-keydown="search(model.term)" />
+    <ul>
+        <li ng-repeat="result in model.results">
+            <a href ng-click="add(result)">
+                {{result.message}}
+             </a>
+        </li>
+    </ul>
+    <ul>
+        <li ng-repeat="result in model.value">
+            <a href ng-click="remove($index)">
+                {{result.message}}
+            </a>
+        </li>
+    </ul>
+</div>

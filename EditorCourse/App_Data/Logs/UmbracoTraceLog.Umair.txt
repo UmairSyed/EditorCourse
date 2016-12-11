@@ -1,0 +1,107 @@
+﻿ 2016-12-11 12:06:09,796 [P10232/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.3 application starting on UMAIR
+ 2016-12-11 12:06:09,879 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-12-11 12:06:09,891 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 12ms)
+ 2016-12-11 12:06:09,996 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-12-11 12:06:10,854 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 858ms)
+ 2016-12-11 12:06:10,871 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-12-11 12:06:10,877 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 6ms)
+ 2016-12-11 12:06:10,879 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-12-11 12:06:10,895 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 16ms)
+ 2016-12-11 12:06:10,926 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-12-11 12:06:10,931 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 4ms)
+ 2016-12-11 12:06:10,932 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-12-11 12:06:10,939 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 7ms)
+ 2016-12-11 12:06:11,003 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-12-11 12:06:11,014 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 11ms)
+ 2016-12-11 12:06:11,019 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-12-11 12:06:11,028 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 9ms)
+ 2016-12-11 12:06:15,218 [P10232/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-12-11 12:06:16,041 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Models.PublishedContent.PublishedContentModel
+ 2016-12-11 12:06:16,055 [P10232/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Models.PublishedContent.PublishedContentModel, found 0 (took 13ms)
+ 2016-12-11 12:06:16,183 [P10232/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-12-11 12:06:16,250 [P10232/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-12-11 12:06:16,379 [P10232/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-12-11 12:06:16,465 [P10232/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-12-11 12:06:16,620 [P10232/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-12-11 12:06:16,645 [P10232/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 7018ms)
+ 2016-12-11 12:06:19,352 [P10232/D2/T6] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:60338/umbraco (UmbracoModule request)
+ 2016-12-11 12:06:19,945 [P10232/D2/T6] INFO  umbraco.content - Load Xml from file...
+ 2016-12-11 12:06:19,954 [P10232/D2/T6] INFO  umbraco.content - Loaded Xml from file.
+ 2016-12-11 12:06:21,704 [P10232/D2/T6] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-12-11 12:06:21,721 [P10232/D2/T6] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 17ms)
+ 2016-12-11 12:07:20,207 [P10232/D2/T16] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-12-10 12:07:20
+ 2016-12-11 12:07:20,370 [P10232/D2/T14] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-12-11 12:07:20,465 [P10232/D2/T14] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 95ms)
+ 2016-12-11 12:07:28,637 [P10232/D2/T8] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username admin@admin.com from IP address ::1
+ 2016-12-11 12:07:28,640 [P10232/D2/T8] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: admin@admin.com logged in from IP address ::1
+ 2016-12-11 12:07:28,963 [P10232/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-12-11 12:07:28,970 [P10232/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 7ms)
+ 2016-12-11 12:07:29,167 [P10232/D2/T8] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplication
+ 2016-12-11 12:07:29,211 [P10232/D2/T8] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplication, found 0 (took 44ms)
+ 2016-12-11 12:07:29,468 [P10232/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-12-11 12:07:29,469 [P10232/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 1ms)
+ 2016-12-11 12:07:29,481 [P10232/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-12-11 12:07:29,522 [P10232/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 41ms)
+ 2016-12-11 12:07:29,529 [P10232/D2/T8] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-12-11 12:07:29,540 [P10232/D2/T8] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 10ms)
+ 2016-12-11 12:10:04,953 [P10232/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field min
+ 2016-12-11 12:10:04,953 [P10232/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field step
+ 2016-12-11 12:10:04,953 [P10232/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field max
+ 2016-12-11 12:10:04,961 [P10232/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:10:04,962 [P10232/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:10:05,094 [P10232/D2/T8] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:10:05,097 [P10232/D2/T8] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:13:54,483 [P10232/D2/T55] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field min
+ 2016-12-11 12:13:54,483 [P10232/D2/T55] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field step
+ 2016-12-11 12:13:54,483 [P10232/D2/T55] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field max
+ 2016-12-11 12:13:54,494 [P10232/D2/T52] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:13:54,499 [P10232/D2/T52] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:13:54,561 [P10232/D2/T55] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:13:54,562 [P10232/D2/T55] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:16:18,113 [P10232/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:16:18,113 [P10232/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:16:18,114 [P10232/D2/T57] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field min
+ 2016-12-11 12:16:18,114 [P10232/D2/T57] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field step
+ 2016-12-11 12:16:18,114 [P10232/D2/T57] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field max
+ 2016-12-11 12:16:18,161 [P10232/D2/T57] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:16:18,165 [P10232/D2/T57] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:19:59,657 [P10232/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field min
+ 2016-12-11 12:19:59,657 [P10232/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field step
+ 2016-12-11 12:19:59,658 [P10232/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field max
+ 2016-12-11 12:19:59,691 [P10232/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:19:59,692 [P10232/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:19:59,730 [P10232/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:19:59,730 [P10232/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:21:06,985 [P10232/D2/T47] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:21:06,985 [P10232/D2/T47] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:21:06,985 [P10232/D2/T39] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field min
+ 2016-12-11 12:21:06,985 [P10232/D2/T39] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field step
+ 2016-12-11 12:21:06,985 [P10232/D2/T39] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field max
+ 2016-12-11 12:21:07,053 [P10232/D2/T48] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:21:07,053 [P10232/D2/T48] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:23:17,132 [P10232/D2/T34] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'Bridgeware processor' with Id '1068' has been published.
+ 2016-12-11 12:23:17,268 [P10232/D2/T34] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2016-12-11 12:23:17,289 [P10232/D2/T34] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 21ms)
+ 2016-12-11 12:23:21,451 [P10232/D2/T13] INFO  umbraco.content - Save Xml to file...
+ 2016-12-11 12:23:21,466 [P10232/D2/T34] INFO  umbraco.content - Saved Xml to file.
+ 2016-12-11 12:24:20,020 [P10232/D2/T37] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'Bridgeware processor' with Id '1068' has been published.
+ 2016-12-11 12:24:24,150 [P10232/D2/T44] INFO  umbraco.content - Save Xml to file...
+ 2016-12-11 12:24:24,186 [P10232/D2/T44] INFO  umbraco.content - Saved Xml to file.
+ 2016-12-11 12:24:41,278 [P10232/D2/T36] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'Bridgeware processor' with Id '1068' has been published.
+ 2016-12-11 12:24:45,432 [P10232/D2/T44] INFO  umbraco.content - Save Xml to file...
+ 2016-12-11 12:24:45,439 [P10232/D2/T44] INFO  umbraco.content - Saved Xml to file.
+ 2016-12-11 12:27:13,002 [P10232/D2/T39] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'Bridgeware processor' with Id '1068' has been published.
+ 2016-12-11 12:27:17,259 [P10232/D2/T44] INFO  umbraco.content - Save Xml to file...
+ 2016-12-11 12:27:17,347 [P10232/D2/T44] INFO  umbraco.content - Saved Xml to file.
+ 2016-12-11 12:28:10,222 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:28:10,223 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:28:10,395 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field min
+ 2016-12-11 12:28:10,395 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field step
+ 2016-12-11 12:28:10,395 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field max
+ 2016-12-11 12:28:10,441 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-12-11 12:28:10,441 [P10232/D2/T49] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-12-11 12:28:32,875 [P10232/D2/T32] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Editors.IEditorValidator
+ 2016-12-11 12:28:32,885 [P10232/D2/T32] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Editors.IEditorValidator, found 0 (took 10ms)
+ 2016-12-11 12:29:35,219 [P10232/D2/T29] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'Bridgeware processor' with Id '1068' has been published.
+ 2016-12-11 12:29:39,336 [P10232/D2/T24] INFO  umbraco.content - Save Xml to file...
+ 2016-12-11 12:29:39,341 [P10232/D2/T24] INFO  umbraco.content - Saved Xml to file.
